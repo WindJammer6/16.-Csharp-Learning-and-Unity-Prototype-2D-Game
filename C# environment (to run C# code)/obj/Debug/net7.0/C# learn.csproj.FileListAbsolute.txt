@@ -1,0 +1,21 @@
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\obj\Debug\net7.0\C# learn.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\obj\Debug\net7.0\C# learn.AssemblyInfoInputs.cache
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\obj\Debug\net7.0\C# learn.AssemblyInfo.cs
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\obj\Debug\net7.0\C# learn.csproj.CoreCompileInputs.cache
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\bin\Debug\net7.0\C# learn.exe
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\bin\Debug\net7.0\C# learn.deps.json
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\bin\Debug\net7.0\C# learn.runtimeconfig.json
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\bin\Debug\net7.0\C# learn.dll
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\bin\Debug\net7.0\C# learn.pdb
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\obj\Debug\net7.0\C# learn.dll
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\obj\Debug\net7.0\refint\C# learn.dll
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\obj\Debug\net7.0\C# learn.pdb
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\obj\Debug\net7.0\C# learn.genruntimeconfig.cache
+c:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# learn\obj\Debug\net7.0\ref\C# learn.dll
+C:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# environment (to run C# code)\obj\Debug\net7.0\C# learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# environment (to run C# code)\obj\Debug\net7.0\C# learn.AssemblyInfoInputs.cache
+C:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# environment (to run C# code)\obj\Debug\net7.0\C# learn.AssemblyInfo.cs
+C:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# environment (to run C# code)\obj\Debug\net7.0\C# learn.csproj.CoreCompileInputs.cache
+C:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# environment (to run C# code)\obj\Debug\net7.0\C# learn.dll
+C:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# environment (to run C# code)\obj\Debug\net7.0\refint\C# learn.dll
+C:\Users\Jet Wei\Documents\Jetwei\Programming stuff\C# environment (to run C# code)\obj\Debug\net7.0\C# learn.pdb
