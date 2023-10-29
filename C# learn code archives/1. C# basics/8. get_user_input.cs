@@ -14,7 +14,7 @@ namespace Project
             //-> 'Console.WriteLine' is used to display text and inserts a line break at the end, and it 
             //   writes the text to the console and moves the cursor to the beginning of the next line, 
             //   ensuring that subsequent output appears on a new line.
-            //-> 'Console.WriteConsole.Write' is used to display text without inserting a line break at 
+            //-> 'Console.Write' is used to display text without inserting a line break at 
             //   the end, and it writes the text to the console and leaves the cursor at the end of the 
             //   text, allowing subsequent output to appear on the same line.
 
