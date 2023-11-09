@@ -6,4 +6,5 @@ https://www.youtube.com/watch?v=msTvOG4w80I (how to add animation to the sprites
 
 C# is also an object oriented programming language, like Python.
 
-https://www.youtube.com/watch?v=CO4BGZOuUkM (learn code archives youtube playlist)
+https://www.youtube.com/watch?v=CO4BGZOuUkM (how to run C# code in vscode youtube vid)
+
