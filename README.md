@@ -5,3 +5,5 @@ Links sources when building the Unity game: https://www.youtube.com/watch?v=XtQM
 https://www.youtube.com/watch?v=msTvOG4w80I (how to add animation to the sprites in Unity)
 
 C# is also an object oriented programming language, like Python.
+
+https://www.youtube.com/watch?v=CO4BGZOuUkM (learn code archives youtube playlist)
