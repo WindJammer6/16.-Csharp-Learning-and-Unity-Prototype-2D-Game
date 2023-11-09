@@ -8,3 +8,4 @@ C# is also an object oriented programming language, like Python.
 
 https://www.youtube.com/watch?v=CO4BGZOuUkM (how to run C# code in vscode youtube vid)
 
+https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (learn C# code archives youtube vid)
