@@ -1,0 +1,6 @@
+Setting up C# in VScode:
+This video contains clear instructions to do that, as well as how to set up the
+additional folders to create the environment/work space to run your C# code in
+VScode
+
+Link: https://www.youtube.com/watch?v=CO4BGZOuUkM

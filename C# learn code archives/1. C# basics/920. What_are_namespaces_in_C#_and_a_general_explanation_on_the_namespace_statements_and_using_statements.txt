@@ -1,0 +1,252 @@
+Here are links where I got important information of Namespaces, 'namespace' statements and 'using' statements
+from:
+- https://stackoverflow.com/questions/11427223/what-is-the-difference-between-a-class-library-and-a-namespace
+  ('What is the difference between a class library and a namespace?') (stack overflow discussion)
+- https://www.youtube.com/watch?v=1BYEC1ZENSg&t=1s ('How to use namespaces in C#?') (Youtube short video by Matt 
+  Noone)
+- https://chat.openai.com/c/ec9952d8-7de3-4b19-9756-3ad01139f9a6 (ChatGPT)
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+What are Namespaces, and what does the 'namespace' statement do?
+Namespaces is an unheard of term in Python that is native to C#, and is not available in Python. To answer this 
+question, we need to fully understand what are Namespaces as an in-built component in C#.
+
+Namespaces are a set of "bundled classes" in C#. You can declare a namespace of your own in your C# code, using the
+'namespace' statement like so,
+    ```
+    namespace MyNamespace
+    {
+
+    }
+    ```
+
+You can also declare sub-namespaces by using a 'namespace' statement within another 'namespace' statement like so,
+    ```
+    namespace MyNamespace
+    {
+        namespace MySubNamespace
+        {
+
+        }
+    }
+    ```
+
+Note: It must be made clear that namespace are not full libraries/frameworks that you import directly via the 
+      'import' statement in Python (such as 'numpy', 'matplotlib', 'panda', 'scikit learn', etc.), even though 
+      namespaces and libraries/frameworks are similar in the sense that they are a group of code that you can 
+      import into your code. 
+
+      They are different as a single libraries/frameworks are usually complete groups of code, and bigger, while 
+      namespaces are sometimes incomplete groups of code, and smaller, and may often require you to import multiple 
+      namespaces to have the complete functionality for your programming project while for libraries/frameworks you 
+      just need to import one of them (since they are complete on their own). For example,
+          ```
+          using Newtonsoft.Json;
+          using RestSharp;
+          ```
+
+      These 2 namespaces usually come as a pair when you are working on a project or part of a codebase that 
+      involves making HTTP requests (e.g., RESTful API calls) and handling JSON data. As you might use 
+      'Newtonsoft.Json' to serialize your objects into JSON before sending them as part of an API request using 
+      'RestSharp'. Similarly, you could use 'Newtonsoft.Json' to deserialize the JSON response received from an API
+      call made with 'RestSharp'.
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+What does the 'using' statement do? (an example of Operator Overloading)
+The 'using' statement has 2 functionalities (an example of Operator Overloading):
+1. The main functionality of the 'using' statement is to import existing external namespaces 
+   (not the same as libraries!) into your C# code such as 'Newtonsoft' and 'RestSharp' 
+   (basically the almost same concept as the 'import' statement in Python, though it is 
+   slightly different as it import external namespaces, rather than libraries, which are
+   different things, as explained in '920. namespace_statements.cs')
+ 
+2. The other less common functionality of the 'using' statement is for resource management, 
+   particularly with objects such as files, database connections and network connections, 
+   that implement the 'IDisposable' interface. The 'using' statement ensures that the 
+   'Dispose' method of the object is called when the block is exited, providing a convenient 
+   way to release resources. Here is a sample code of the 'using' statement being used for
+   this functionality:
+      ```
+      using (FileStream fs = new FileStream("example.txt", FileMode.Open))
+      {
+          // Code to read from the file
+      }
+      ```
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Reviewing the structure of a C# code after understanding Namespaces, and the 'namespace' and 'using' statements
+Here is the basic template of a C# code:
+    ```
+    namespace Project
+    {
+        class Program
+        {
+            static void Main(string[] args)
+            {
+
+            }
+        }
+    }
+    ```
+
+Notice that it is common practice for C# code to always have a Namespace, represented by the 'namespace' statement,
+and within it, a class, where all the methods, variables, attributes all lie inside. The reason why C# code is
+structured in this manner is important because if other people want to use your code, they can simply call the 
+name of your Namespace, represented by the 'namespace' statement, and using the dot ('.') operator, call any 
+methods/classes in your Namespace, and with another dot ('.') operator, call methods/variables/attributes within 
+classes in your Namespace.
+
+
+
+In most C# codes, there is usually a Namespace (and are preferred to contain a Namespace) But you might have come 
+across C# code without any Namespaces (represented by the 'namespace' statement), so how do they work?
+Before you answer this question, you need to know that only classes can exist outside of a Namespace. Other
+data types such as methods/variables/properties cannot. They can only exist within Namespaces/classes.
+
+When classes are placed outside of a Namespace (represented by the 'namespace' statement), they become part of
+the 'global' Namespace, and such classes, along with its methods/variables/attributes/classes, can be accessed 
+from any other file in the same folder without having to specify a name of its Namespace it is from (since the 
+class dosen't belong to any Namespace anyway) 
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+How are methods, variables, attributes, classes etc. called in C# code?
+(Continued from the above section) This is actually seen when you create your own C# code, since you are also using 
+existing Namespaces in the C# language (some are built-in, others are created by third party Namespaces) when you 
+use the methods from their Namespaces in your C# code.
+
+Take, for example, very basic methods in C#,
+    ```
+    Console.WriteLine() OR Console.ReadLine()
+    ```
+
+which is more accurately written as,
+    ```
+    System.Console.WriteLine() OR System.Console.ReadLine()
+    ```
+
+where the 'WriteLine()'/'ReadLine()' is a method that exists in the 'Console' sub-namespace, which exists in the 
+'System' main namespace. 
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+
+
+What is the point of the 'using' statement to import external Namespaces then, if we can just import and use the 
+methods/variables/attributes/classes of those external Namespaces by stating 
+'[name of the Namespace].[name of method/class].[name of method/variable/attribute/class]'?
+Lets say you want to use the methods/variables/attributes/classes, usually you will write the name of the Namespace
+they are from (connected by the dot ('.') operator). However, with the 'using' statement, you can import the 
+external Namespace at the top of your code, which allows you to omit specifying the name of the Namespace the 
+methods/variables/attributes/classes you took them from. For example, I want to use methods from the 
+'Newtonsoft.Json' and 'RestSharp' namespaces without importing them via 'using' statements at the top of the C# 
+code, the C# codes will look like this, 
+    ```
+    namespace Project
+    {
+        ...
+
+        class Program
+        {
+            static void Main()
+            {
+                ...
+
+                string json = Newtonsoft.Json.JsonConvert.SerializeObject(post);
+                
+                ...
+
+                Post deserializedPost = Newtonsoft.Json.JsonConvert.DeserializeObject<Post>(jsonToDeserialize);
+                
+                ...
+
+                // Example of making an HTTP request using RestSharp
+                var client = new RestSharp.RestClient("https://jsonplaceholder.typicode.com");
+                var request = new RestSharp.RestRequest("/posts/1", DataFormat.Json);
+            }
+        }
+    }
+    ```
+
+but if I imported the 'Newtonsoft.Json' and 'RestSharp' namespaces via 'using' statements at the top of the C# 
+code, then I can use the methods from the 'Newtonsoft.Json' and 'RestSharp' namespaces in the C# code without
+having to re-specify the name of the Namespaces they are from in the C# code like so,
+    ```
+    using Newtonsoft.Json;
+    using RestSharp;
+
+    namespace Project
+    {
+        ...
+
+        class Program
+        {
+            static void Main()
+            {
+                ...
+
+                string json = JsonConvert.SerializeObject(post);
+                
+                ...
+
+                Post deserializedPost = JsonConvert.DeserializeObject<Post>(jsonToDeserialize);
+                
+                ...
+
+                // Example of making an HTTP request using RestSharp
+                var client = new RestClient("https://jsonplaceholder.typicode.com");
+                var request = new RestRequest("/posts/1", DataFormat.Json);
+            }
+        }
+    }
+    ```
+
+Note: You technically can still specify the name of the Namespace you are taking the 
+      methods/variables/attributes/classes from even after you have imported the external Namespaces via the 
+      'using' statements at the top of your C# code.
+      
+      It may seem redundant at first glance, but this is especially useful if you happen to have two 
+      methods/variables/attributes/classes you imported into your C# code via the 'using' statements from different 
+      Namespaces with the same name, and you can continue to specify the name of the Namespace you are taking the 
+      methods/variables/attributes/classes from to tell the C# program which Namespace you want to take your 
+      methods/variables/attributes/classes from out of the two from the different Namespaces with the same name 
+      (see '922. using_statements.cs' for more information)
+      
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Going back to the section 'How are methods, variables, attributes, classes etc. called in C# code?', since in the
+previous section we established that we can only omit specifying the Namespace via the dot ('.') operator on its
+methods we are using in our C# code when we import the external Namespace via the 'using' statement at the top of
+the C# code, why can we use basic methods such as 'Console.WriteLine()' and 'Console.ReadLine()' without specifying
+the 'System' Namespace they are from even though we did not import the 'System' Namespace via the 'using' statement
+at the top of the C# code?  
+This is because in C# there are some basic pre-existing in-built Namespaces that are built into the C# language, 
+which are special Namespaces that you do not need to import via the 'using' statements to not have to specify
+the name of these Namespaces the methods from them are from.
+
+Here is a few of them, all of which are the 'System' Namespace and its sub-namespaces:
+-> 'System' Namespace
+-> 'System.Collections' Namespace
+-> 'System.Linq' Namespace
+-> 'System.IO' Namespace
+-> 'System.Net' Namespace
+-> 'System.Threading' Namespace
+-> 'System.Text' Namespace
+-> 'System.Xml' Namespace
+
+
+
+
