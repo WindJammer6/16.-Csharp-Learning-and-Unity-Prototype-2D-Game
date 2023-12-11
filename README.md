@@ -7,7 +7,7 @@ learn code archives is coupled with it
 Unity C# syntax Unity project is where you can run the C# codes in the Unity editor
 Unity C# syntax leanr code archives comes with it
 
-In order to set up the Unity project, refer to 19. 2D Unity Game, the section 'How to donwload and use a unity source code from gitihub in your unity editor/software'
+In order to set up the Unity project, refer to 19. 2D Unity Game, the section 'How to donwload and use a unity source code from gitihub in your unity editor/software' and for upload also
 
 
 Links sources when building the Unity game: https://www.youtube.com/watch?v=XtQMytORBmM&t=1s (Intro to Unity)  
