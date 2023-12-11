@@ -1,4 +1,4 @@
-# 16.-Csharp-Learning-and-Unity-Prototype-2D-Game
+# 16.-Csharp-and-Unity-Learning
 My learning journey of the C# programming language and the Unity game development framework.
 
 the C# environment is for VS code IDE, not sure if it works for other ides tho
