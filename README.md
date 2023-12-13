@@ -35,7 +35,7 @@ Here is a directory to the explanations of what each folder contains in this C# 
 
 **[C# short projects](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/4.%20C%23%20short%20projects) <a name = "csharpshortprojects"></a>**
 
-**['Setting_up_C#_in VScode.txt' text file](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/blob/main/C%23%20learn%20code%20archives/Setting_up_C%23_in%20VScode.txt) <a name = "#settingupcsharpinvscode"></a>** ( this is in this folder rather than the top (C# environment) one is cuz if its on top then the environment wont run properly in vscode
+**['Setting_up_C#_in VScode.txt' text file](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/blob/main/C%23%20learn%20code%20archives/Setting_up_C%23_in%20VScode.txt) <a name = "#settingupcsharpinvscode"></a>** this is in this folder rather than the top (C# environment) one is cuz if its on top then the environment wont run properly in vscode
 
 *Sources:*  
 + https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp) (Youtube video labelled 'C# Tutorial - Full Course for Beginners' by freeCodeCamp)  
@@ -55,7 +55,7 @@ nil
 didnt follow all the videos exactly, and i did skip a few of them
 
 *Sources:*  
-+ https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity) (Youtube playlist labelled 'Beginner-friendly scripting tutorials' by Unity, consisting of videos teaching the basic C# syntax for Unity)   
++ https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity) (Youtube playlist labelled 'Beginner-friendly scripting tutorials' by Unity, consisting of various videos teaching the basic C# syntax for Unity)   
 
 
 My learning journey of the C# programming language and the Unity game development framework.
