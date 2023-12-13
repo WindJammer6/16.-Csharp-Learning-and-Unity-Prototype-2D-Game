@@ -21,6 +21,8 @@ Here is a directory to the explanations of what each folder contains in this C# 
 
 ### [1. C# environment in VS code (to run C# code)](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20environment%20in%20VS%20code%20(to%20run%20C%23%20code)) <a name = "csharpenvironmentinvscode"></a>
 
+not sure if might work for other IDE but this is the environment that i used for vscode and it works
+
 *Sources:*  
 + https://www.youtube.com/watch?v=CO4BGZOuUkM (Tech Decode Tutorials) (Youtube video labelled 'How to Run C# in Visual Studio Code on Windows 10 2022' by Tech Decode Tutorials) for the setting up c# in vscode section stuffs   
 
