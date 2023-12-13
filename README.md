@@ -1,8 +1,68 @@
 # 16.-Csharp-and-Unity-Learning
+After working with Python for quite a while, I wanted to adopt a second programming language to further hone my programming skills. In addition to this, a friend of mine (Github account: [WolfPark](https://github.com/wolfparktaerim)) always wanted to create a video game of his own, and recommended me one of the many powerful game development engines/framework, [Unity](https://unity.com/download). However, the main issue is that Unity uses the C# language, rather than Python. Hence, I decided to take this opportunity to while helping out on making a video game on Unity, to also learn the C# programming language, as well as some of the Unity C# syntax.
+
+Apparently the C# programming language is also an object oriented programming language, like Python.
+
+<br>
+
+## Table of Contents:
+Here is a directory to the explanations of what each folder contains in this C# and Unity learning journey repository:
+1. [C# environment in VS code (to run C# code)](#csharpenvironmentinvscode)  
+2. [C# learn code archives](#csharpcodearchives)
+   + [C# basics](#csharpbasics)
+   + [C# built-in data structures](#csharpbuiltindatastructures)
+   + [C# OOP](#csharpoop)
+   + [C# short projects](#csharpshortprojects)
+   + ['Setting_up_C#_in VScode.txt' text file](#settingupcsharpinvscode)
+3. [Unity C# Syntax learn Unity project](#unitycsharpsyntaxlearnunityproject)  
+4. [Unity C# Syntax learn code archives](#unitycsharpsyntaxlearncodearchives)  
+
+<br>
+
+### [1. C# environment in VS code (to run C# code)](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20environment%20in%20VS%20code%20(to%20run%20C%23%20code)) <a name = "csharpenvironmentinvscode"></a>
+
+*Sources:*  
++ https://www.youtube.com/watch?v=CO4BGZOuUkM (Tech Decode Tutorials) (Youtube video labelled 'How to Run C# in Visual Studio Code on Windows 10 2022' by Tech Decode Tutorials) for the setting up c# in vscode section stuffs   
+
+<br>
+
+### [2. C# learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives) <a name = "csharpcodearchives"></a>
+**[C# basics](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/1.%20C%23%20basics) <a name = "csharpbasics"></a>**
+
+**[C# built-in data structures](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/2.%20C%23%20built-in%20data%20structures) <a name = "csharpbuiltindatastructures"></a>**
+
+**[C# OOP](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/3.%20C%23%20OOP) <a name = "csharpoop"></a>**
+
+**[C# short projects](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/4.%20C%23%20short%20projects) <a name = "csharpshortprojects"></a>**
+
+**['Setting_up_C#_in VScode.txt' text file](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/blob/main/C%23%20learn%20code%20archives/Setting_up_C%23_in%20VScode.txt) <a name = "#settingupcsharpinvscode"></a>** ( this is in this folder rather than the top (C# environment) one is cuz if its on top then the environment wont run properly in vscode
+
+*Sources:*  
++ https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp) (Youtube video labelled 'C# Tutorial - Full Course for Beginners' by freeCodeCamp)  
++ https://www.youtube.com/watch?v=CO4BGZOuUkM (Tech Decode Tutorials) (Youtube video labelled 'How to Run C# in Visual Studio Code on Windows 10 2022' by Tech Decode Tutorials) for the setting up c# in vscode section stuffs  
+  
+<br>
+
+### [3. Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project) <a name = "unitycsharpsyntaxlearnunityproject"></a>
+cant run unity c# files in the vscode termianl, must run in the unity editor's terminal itself as a 'project' hence the creation of this folder
+
+*Sources:*  
+nil
+
+<br>
+
+### [4. Unity C# Syntax learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20code%20archives) <a name = "unitycsharpsyntaxlearncodearchives"></a>  
+didnt follow all the videos exactly, and i did skip a few of them
+
+*Sources:*  
++ https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity) (Youtube playlist labelled 'Beginner-friendly scripting tutorials' by Unity, consisting of videos teaching the basic C# syntax for Unity)   
+
+
 My learning journey of the C# programming language and the Unity game development framework.
 
 the C# environment is for VS code IDE, not sure if it works for other ides tho
 learn code archives is coupled with it
+
 
 Unity C# syntax Unity project is where you can run the C# codes in the Unity editor
 Unity C# syntax leanr code archives comes with it
@@ -12,8 +72,6 @@ In order to set up the Unity project, refer to 19. 2D Unity Game, the section 'H
 
 Links sources when building the Unity game: https://www.youtube.com/watch?v=XtQMytORBmM&t=1s (Intro to Unity)  
 https://www.youtube.com/watch?v=msTvOG4w80I (how to add animation to the sprites in Unity)
-
-C# is also an object oriented programming language, like Python.
 
 https://www.youtube.com/watch?v=CO4BGZOuUkM (how to run C# code in vscode youtube vid)
 
