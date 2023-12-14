@@ -74,7 +74,7 @@ nil
 *How to use the C# files in this folder?*  
 The C# files in this folder needs to be used along with the '[Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project)' folder in order to run them in Unity. (which these C# files already are added to the [Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project) 
 
-This folder contains all the C# files during my Unity C# syntax learning journey, organised roughly according to the Unity's Youtube playlist videos on Unity C# syntax. (link: https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity)) Everything in this folder is taken from this 3 hour long Youtube video: https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp), while I split its lessons myself to the individual folders.
+This folder contains all the C# files during my Unity C# syntax learning journey, organised roughly according to the Unity's Youtube playlist videos on Unity C# syntax. (link: https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity)) Most of the information in this folder is taken from this Unity Youtube playlist: https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity), with a lot of assistance from [ChatGPT](https://chat.openai.com/) and Googling due to how poor Unity's Youtube videos tutorials on Unity C# syntax are at teaching haiz...
 
 didnt follow all the videos exactly, and i did skip a few of them
 
