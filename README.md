@@ -32,7 +32,9 @@ I'm not sure if this C# environment works for other IDE/compilers... I have only
 
 <br>
 
-### [2. C# learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives) <a name = "csharpcodearchives"></a>
+### [2. C# learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives) <a name = "csharpcodearchives"></a>  
+*How to use the C# files in this folder?*  
+The C# files in this folder needs to be used along with the '[C# environment in VS code (to run C# code)](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20environment%20in%20VS%20code%20(to%20run%20C%23%20code))' folder in order to run them in VS code.
 
 This folder contains all the C# files during my C# programming language learning journey, segregated into 4 folders, '[C# basics](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/1.%20C%23%20basics)', '[C# built-in data structures](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/2.%20C%23%20built-in%20data%20structures)', '[C# OOP](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/3.%20C%23%20OOP)' and '[C# short projects](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/4.%20C%23%20short%20projects)', organised based on the  programming concept of each C# file. Everything in this folder is taken from this 3 hour long Youtube video: https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp), while I split its lessons myself to the individual folders.
 
@@ -49,7 +51,9 @@ This folder contains all the C# files that deals with Object-Oriented Programmin
 This folder contains all the C# files that deals with some guided mini-projects, from the same [freeCodeCamp Youtube video](https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s), including, creating a calculator, a mad-lib game, and a guessing game, in the C# programming language.
 
 **['Setting_up_C#_in VScode.txt' text file](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/blob/main/C%23%20learn%20code%20archives/Setting_up_C%23_in%20VScode.txt) <a name = "#settingupcsharpinvscode"></a>**  
-this is in this folder rather than the top (C# environment) one is cuz if its on top then the environment wont run properly in vscode
+This file contains information from the Youtube video on how to set up a C# environment in VS code, and how to use it to run C# code in VS code. (link: https://www.youtube.com/watch?v=CO4BGZOuUkM (Tech Decode Tutorials))
+
+This file is in this folder, rather than the previous folder, '[C# environment in VS code (to run C# code)](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20environment%20in%20VS%20code%20(to%20run%20C%23%20code))' because it might introduce bugs to the '[C# environment in VS code (to run C# code)](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20environment%20in%20VS%20code%20(to%20run%20C%23%20code))' folder if this file is added to it.
 
 *Sources:*  
 + https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp) (Youtube video labelled 'C# Tutorial - Full Course for Beginners' by freeCodeCamp)  
@@ -58,6 +62,7 @@ this is in this folder rather than the top (C# environment) one is cuz if its on
 <br>
 
 ### [3. Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project) <a name = "unitycsharpsyntaxlearnunityproject"></a>
+
 cant run unity c# files in the vscode termianl, must run in the unity editor's terminal itself as a 'project' hence the creation of this folder
 
 *Sources:*  
@@ -65,7 +70,12 @@ nil
 
 <br>
 
-### [4. Unity C# Syntax learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20code%20archives) <a name = "unitycsharpsyntaxlearncodearchives"></a>  
+### [4. Unity C# Syntax learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20code%20archives) <a name = "unitycsharpsyntaxlearncodearchives"></a>
+*How to use the C# files in this folder?*  
+The C# files in this folder needs to be used along with the '[Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project)' folder in order to run them in Unity. (which these C# files already are added to the [Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project) 
+
+This folder contains all the C# files during my Unity C# syntax learning journey, organised roughly according to the Unity's Youtube playlist videos on Unity C# syntax. (link: https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity)) Everything in this folder is taken from this 3 hour long Youtube video: https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp), while I split its lessons myself to the individual folders.
+
 didnt follow all the videos exactly, and i did skip a few of them
 
 *Sources:*  
