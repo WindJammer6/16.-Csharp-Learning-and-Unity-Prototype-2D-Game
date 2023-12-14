@@ -23,7 +23,7 @@ Here is a directory to the explanations of what each folder contains in this C# 
 
 This is the C# environment that you need to set up in VS code in order to run your C# files in VS code. In this C# environment in VS code folder, you can modify the 'run_code_here.cs' C# file to whatever C# code you want to run in VS code. Don't modify anything else in this C# environment in VS code folder as it might introduce bugs to your C# environment in VS code.
 
-This is youtube video where I learnt how to set up this C# environment in VS code, and how to use it to run C# code in VS code: https://www.youtube.com/watch?v=CO4BGZOuUkM (Tech Decode Tutorials)
+This is Youtube video where I learnt how to set up this C# environment in VS code, and how to use it to run C# code in VS code: https://www.youtube.com/watch?v=CO4BGZOuUkM (Tech Decode Tutorials)
 
 I'm not sure if this C# environment works for other IDE/compilers... I have only ever used it for VS code and it works for VS code.
 
@@ -34,15 +34,19 @@ I'm not sure if this C# environment works for other IDE/compilers... I have only
 
 ### [2. C# learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives) <a name = "csharpcodearchives"></a>
 
-This folder contains all the C# files during my C# programming language learning journey, segregated into 4 folders, '[C# basics](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/1.%20C%23%20basics)', '[C# built-in data structures](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/2.%20C%23%20built-in%20data%20structures)', '[C# OOP](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/3.%20C%23%20OOP)' and '[C# short projects](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/4.%20C%23%20short%20projects)', depending on the  programming concept of the C# file I was working on. Everything in this folder is based on.
+This folder contains all the C# files during my C# programming language learning journey, segregated into 4 folders, '[C# basics](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/1.%20C%23%20basics)', '[C# built-in data structures](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/2.%20C%23%20built-in%20data%20structures)', '[C# OOP](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/3.%20C%23%20OOP)' and '[C# short projects](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/4.%20C%23%20short%20projects)', depending on the  programming concept of the C# file I was working on. Everything in this folder is taken from this 3 hour long Youtube video: https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp), while I split its lessons myself to the individual folders.
 
-**[C# basics](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/1.%20C%23%20basics) <a name = "csharpbasics"></a>**
+**[C# basics](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/1.%20C%23%20basics) <a name = "csharpbasics"></a>**  
+This folder contains all the C# files that deals with the basic syntax and structure in the C# programming language.
 
-**[C# built-in data structures](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/2.%20C%23%20built-in%20data%20structures) <a name = "csharpbuiltindatastructures"></a>**
+**[C# built-in data structures](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/2.%20C%23%20built-in%20data%20structures) <a name = "csharpbuiltindatastructures"></a>**  
+This folder contains all the C# files that deals with the built-in data structures in the C# programming language.
 
-**[C# OOP](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/3.%20C%23%20OOP) <a name = "csharpoop"></a>**
+**[C# OOP](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/3.%20C%23%20OOP) <a name = "csharpoop"></a>** 
+This folder contains all the C# files that deals with Object-Oriented Programming (OOP) concept in the C# programming language.
 
-**[C# short projects](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/4.%20C%23%20short%20projects) <a name = "csharpshortprojects"></a>**
+**[C# short projects](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/4.%20C%23%20short%20projects) <a name = "csharpshortprojects"></a>**  
+This folder contains all the C# files that deals with some guided mini-projects, from the same [freeCodeCamp Youtube video](https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s), in the C# programming language.
 
 **['Setting_up_C#_in VScode.txt' text file](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/blob/main/C%23%20learn%20code%20archives/Setting_up_C%23_in%20VScode.txt) <a name = "#settingupcsharpinvscode"></a>** this is in this folder rather than the top (C# environment) one is cuz if its on top then the environment wont run properly in vscode
 
