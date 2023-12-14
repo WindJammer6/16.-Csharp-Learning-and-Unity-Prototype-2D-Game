@@ -78,6 +78,8 @@ This folder contains all the C# files during my Unity C# syntax learning journey
 
 didnt follow all the videos exactly, and i did skip a few of them
 
+say the Unity tutorial flappy bird was the first youtube c# Unity vid I watched tonunderstand unity
+
 *Sources:*  
 + https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity) (Youtube playlist labelled 'Beginner-friendly scripting tutorials' by Unity, consisting of various videos teaching the basic C# syntax for Unity)   
 
