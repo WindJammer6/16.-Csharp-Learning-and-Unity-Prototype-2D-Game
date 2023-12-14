@@ -46,9 +46,10 @@ This folder contains all the C# files that deals with the built-in data structur
 This folder contains all the C# files that deals with Object-Oriented Programming (OOP) concept in the C# programming language.
 
 **[C# short projects](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/4.%20C%23%20short%20projects) <a name = "csharpshortprojects"></a>**  
-This folder contains all the C# files that deals with some guided mini-projects, from the same [freeCodeCamp Youtube video](https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s), in the C# programming language.
+This folder contains all the C# files that deals with some guided mini-projects, from the same [freeCodeCamp Youtube video](https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s), including creating a calculator, mad-lib game, and guessing game, in the C# programming language.
 
-**['Setting_up_C#_in VScode.txt' text file](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/blob/main/C%23%20learn%20code%20archives/Setting_up_C%23_in%20VScode.txt) <a name = "#settingupcsharpinvscode"></a>** this is in this folder rather than the top (C# environment) one is cuz if its on top then the environment wont run properly in vscode
+**['Setting_up_C#_in VScode.txt' text file](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/blob/main/C%23%20learn%20code%20archives/Setting_up_C%23_in%20VScode.txt) <a name = "#settingupcsharpinvscode"></a>**  
+this is in this folder rather than the top (C# environment) one is cuz if its on top then the environment wont run properly in vscode
 
 *Sources:*  
 + https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp) (Youtube video labelled 'C# Tutorial - Full Course for Beginners' by freeCodeCamp)  
