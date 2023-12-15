@@ -1,7 +1,7 @@
-# 16.-Csharp-and-Unity-Learning
+# 16.-Csharp-and-Unity-Learning :globe_with_meridians::video_game:
 After working with Python for quite a while, I wanted to adopt a second programming language to further hone my programming skills. In addition to this, a friend of mine (Github account: [WolfPark](https://github.com/wolfparktaerim)) always wanted to create a video game of his own, and recommended me one of the many powerful game development engines/framework, [Unity](https://unity.com/download). However, the main issue is that Unity uses the C# language, rather than Python. Hence, I decided to take this opportunity to while helping out on making a video game on Unity, to also learn the C# programming language, as well as some of the Unity C# syntax.
 
-Apparently the C# programming language is also an object oriented programming language, like Python.
+Apparently the C# programming language is also an object-oriented programming language, like Python.
 
 <br>
 
@@ -33,10 +33,10 @@ I'm not sure if this C# environment works for other IDE/compilers... I have only
 <br>
 
 ### [2. C# learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives) <a name = "csharpcodearchives"></a>  
+This folder contains all the C# files during my C# programming language learning journey, segregated into 4 folders, '[C# basics](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/1.%20C%23%20basics)', '[C# built-in data structures](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/2.%20C%23%20built-in%20data%20structures)', '[C# OOP](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/3.%20C%23%20OOP)' and '[C# short projects](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/4.%20C%23%20short%20projects)', organised based on the  programming concept of each C# file. Everything in this folder is taken from this 3 hour long Youtube video: https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp), while I split its lessons myself to the individual folders.
+
 *How to use the C# files in this folder?*  
 The C# files in this folder needs to be used along with the '[C# environment in VS code (to run C# code)](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20environment%20in%20VS%20code%20(to%20run%20C%23%20code))' folder in order to run them in VS code.
-
-This folder contains all the C# files during my C# programming language learning journey, segregated into 4 folders, '[C# basics](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/1.%20C%23%20basics)', '[C# built-in data structures](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/2.%20C%23%20built-in%20data%20structures)', '[C# OOP](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/3.%20C%23%20OOP)' and '[C# short projects](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/4.%20C%23%20short%20projects)', organised based on the  programming concept of each C# file. Everything in this folder is taken from this 3 hour long Youtube video: https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp), while I split its lessons myself to the individual folders.
 
 **[C# basics](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/1.%20C%23%20basics) <a name = "csharpbasics"></a>**  
 This folder contains all the C# files that deals with the basic syntax and structure in the C# programming language.
@@ -62,9 +62,9 @@ This file is in this folder, rather than the previous folder, '[C# environment i
 <br>
 
 ### [3. Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project) <a name = "unitycsharpsyntaxlearnunityproject"></a>
-This is the C# environment that you need to set up in VS code in order to run your C# files in VS code. 
+This is the Unity C# syntax learn project folder, which you can treat as the 'environment' to run the Unity C# scripts on the Unity editor/software, since these Unity C# scripts cannot be run on other IDEs, such as VS code, only in the Unity editor/software's terminal as a 'Unity project'. (even though it actually isn't actually a Unity project)
 
-cant run unity c# files in the vscode termianl, must run in the unity editor's terminal itself as a 'project' hence the creation of this folder
+In order to set up the Unity project, refer to 19. 2D Unity Game, the section 'How to donwload and use a unity source code from gitihub in your unity editor/software' and for upload also
 
 *Sources:*  
 nil
@@ -72,34 +72,14 @@ nil
 <br>
 
 ### [4. Unity C# Syntax learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20code%20archives) <a name = "unitycsharpsyntaxlearncodearchives"></a>
-*How to use the C# files in this folder?*  
-The C# files in this folder needs to be used along with the '[Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project)' folder in order to run them in Unity. (which these C# files already are added to the [Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project))
-
-This folder contains all the C# files during my Unity C# syntax learning journey, organised roughly according to the order of the Unity's Youtube playlist's videos on Unity C# syntax. (link: https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity)) Most of the information in this folder is taken from this Unity Youtube playlist: https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity), with a lot of assistance from [ChatGPT](https://chat.openai.com/) and Googling due to how poor Unity's Youtube videos tutorials on Unity C# syntax are at teaching haiz...
-
-didnt follow all the videos exactly, and i did skip a few of them
+This folder contains all the C# files during my Unity C# syntax learning journey, organised roughly according to the order of the Unity's Youtube playlist's videos on Unity C# syntax. (link: https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity)) Most of the information in this folder is taken from this Unity Youtube playlist: https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity), with a lot of assistance from [ChatGPT](https://chat.openai.com/) and Googling due to how poor Unity's Youtube videos tutorials on Unity C# syntax are at teaching haiz... I did skip some of the videos from the Unity Youtube playlist as well, did not follow all of them exactly.
 
 say the Unity tutorial flappy bird was the first youtube c# Unity vid I watched tonunderstand unity
+
+*How to use the C# files in this folder?*  
+The C# files in this folder needs to be used along with the '[Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project)' folder in order to run them in Unity. (which these C# files already are added to the [Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project))
 
 *Sources:*  
 + https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity) (Youtube playlist labelled 'Beginner-friendly scripting tutorials' by Unity, consisting of various videos teaching the basic C# syntax for Unity)   
 
 
-My learning journey of the C# programming language and the Unity game development framework.
-
-the C# environment is for VS code IDE, not sure if it works for other ides tho
-learn code archives is coupled with it
-
-
-Unity C# syntax Unity project is where you can run the C# codes in the Unity editor
-Unity C# syntax leanr code archives comes with it
-
-In order to set up the Unity project, refer to 19. 2D Unity Game, the section 'How to donwload and use a unity source code from gitihub in your unity editor/software' and for upload also
-
-
-Links sources when building the Unity game: https://www.youtube.com/watch?v=XtQMytORBmM&t=1s (Intro to Unity)  
-https://www.youtube.com/watch?v=msTvOG4w80I (how to add animation to the sprites in Unity)
-
-https://www.youtube.com/watch?v=CO4BGZOuUkM (how to run C# code in vscode youtube vid)
-
-https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (learn C# code archives youtube vid)
