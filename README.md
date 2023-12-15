@@ -3,7 +3,7 @@ After working with Python for quite a while, I wanted to adopt a second programm
 
 Apparently the C# programming language is also an object-oriented programming language, like Python.
 
-Apart from the '[Unity C# Syntax learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives)' folder's sources where I learnt Unity C# syntax, I also made reference from this popular 'The Unity Tutorial For Complete Beginners' Unity Youtube tutorial video (link: https://www.youtube.com/watch?v=XtQMytORBmM&t=1s (Game Maker's Toolkit)) to get a general grasp on how the Unity editor/software looks like and work, which helped tremondously in my understanding of the Unity editor/software.
+Apart from the '[Unity C# Syntax learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives)' folder's sources where I learnt Unity C# syntax, I also made reference from this popular 'The Unity Tutorial For Complete Beginners' Youtube tutorial video (link: https://www.youtube.com/watch?v=XtQMytORBmM&t=1s (Game Maker's Toolkit)) to get a general grasp on how the Unity editor/software looks like and work, which helped tremondously in my understanding of the Unity editor/software.
 
 An example of what this 'The Unity Tutorial For Complete Beginners' Unity Youtube tutorial video by Game Maker's Toolkit taught, on the terminology of the 4 most important panels of the Unity editor/software:
 <p align="center"> 
