@@ -7,7 +7,7 @@ Apart from the '[Unity C# Syntax learn code archives](https://github.com/WindJam
 
 An example of what this 'The Unity Tutorial For Complete Beginners' Unity Youtube tutorial video by Game Maker's Toolkit taught, on the terminology of the 4 most important panels of the Unity editor/software:
 <p align="center"> 
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/Image%20of%20Generative%20Design%20Assignment%20of%20the%203D%20model%20in%20Rhino.jpg"  width="350" height="200">
+  <img src="https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/blob/main/Image%20and%20labelling%20of%20the%204%20important%20panels%20of%20the%20Unity%20software.png"  width="350" height="200">
 </p>
 
 <br>
