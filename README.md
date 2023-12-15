@@ -62,6 +62,7 @@ This file is in this folder, rather than the previous folder, '[C# environment i
 <br>
 
 ### [3. Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project) <a name = "unitycsharpsyntaxlearnunityproject"></a>
+This is the C# environment that you need to set up in VS code in order to run your C# files in VS code. 
 
 cant run unity c# files in the vscode termianl, must run in the unity editor's terminal itself as a 'project' hence the creation of this folder
 
