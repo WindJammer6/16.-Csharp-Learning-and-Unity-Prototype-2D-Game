@@ -48,6 +48,7 @@ from:
   ('What is the difference between a class library and a namespace?') (stack overflow discussion) 
 - https://www.youtube.com/watch?v=1BYEC1ZENSg&t=1s ('How to use namespaces in C#?') (Youtube short video by Matt  
   Noone) 
+especially this vid which summarises everything pretty well
 
 
 *How to use the C# files in this folder?*  
