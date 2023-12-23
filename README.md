@@ -42,6 +42,14 @@ I'm not sure if this C# environment works for other IDE/compilers... I have only
 ## [2. C# learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives) <a name = "csharpcodearchives"></a> [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 This folder contains all the C# files during my C# programming language learning journey, segregated into 4 folders, '[C# basics](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/1.%20C%23%20basics)', '[C# built-in data structures](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/2.%20C%23%20built-in%20data%20structures)', '[C# OOP](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/3.%20C%23%20OOP)' and '[C# short projects](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives/4.%20C%23%20short%20projects)', organised based on the  programming concept of each C# file. Everything in this folder is taken from this 3 hour long Youtube video: https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp), while I split its lessons myself to the individual folders.
 
+Here are links where I got important information of Namespaces, 'namespace' statements and 'using' statements 
+from: 
+- https://stackoverflow.com/questions/11427223/what-is-the-difference-between-a-class-library-and-a-namespace 
+  ('What is the difference between a class library and a namespace?') (stack overflow discussion) 
+- https://www.youtube.com/watch?v=1BYEC1ZENSg&t=1s ('How to use namespaces in C#?') (Youtube short video by Matt  
+  Noone) 
+
+
 *How to use the C# files in this folder?*  
 The C# files in this folder need to be used along with the '[C# environment in VS code (to run C# code)](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20environment%20in%20VS%20code%20(to%20run%20C%23%20code))' folder in order to run them in VS code.
 
