@@ -10,7 +10,7 @@
 //       -> 'Rotate' function
 //       -> 'LookAt' function: is used to make a GameObject's forward direction point at a specified target 
 //                             position
-//    b. 'BoxOllider' component/class
+//    b. 'BoxCollider' component/class
 //       -> 'size' property
 //    c. 'Light' component/class
 //    d. 'activeSelf' property: is used to check if the GameObject is active in the scene
