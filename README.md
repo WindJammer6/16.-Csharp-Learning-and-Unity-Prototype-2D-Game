@@ -75,6 +75,8 @@ This file is in this folder, rather than the previous folder, '[C# environment i
 ## [3. Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project) <a name = "unitycsharpsyntaxlearnunityproject"></a> [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 This is the Unity C# syntax learn project folder, which you can treat as the 'environment' to run the Unity C# scripts on the Unity editor/software, since these Unity C# scripts cannot be run on other IDEs, such as VS code, only in the Unity editor/software's terminal as a Unity project.
 
+I did not refer to any sources in order to create this folder since the Unity editor/software automatically generates a Unity project folder like this one whenever you create a Unity game, which stores all the information of your Unity game, and allows you to run/edit your Unity game and the C# scripts inside it in the Unity editor/software when you import this Unity project folder into the Unity editor/software.
+
 Refer to my seperate repository, [19.-2D-Unity-Game](https://github.com/WindJammer6/19.-2D-Unity-Game) to see what does each seperate folder within this '[Unity C# syntax learn project folder](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project)' does. And also, how to download this Unity C# syntax learn project folder 'Unity project' (or any other Unity projects) from Github, as well as using it in the Unity editor/software's terminal, in the section 'How to download and use this Unity source code on Github in your Unity editor/software?' of the repository's 'README.md' file.
 
 *Source(s):*  
@@ -89,6 +91,7 @@ This folder contains all the C# files during my Unity C# syntax learning journey
 The C# files in this folder needs to be used along with the '[Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project)' folder in order to run them in the Unity editor/software's terminal, since these Unity C# scripts cannot be run on other IDEs, such as VS code. (which these C# files already are added to the [Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project))
 
 *Source(s):*  
-+ https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity) (Youtube playlist labelled 'Beginner-friendly scripting tutorials' by Unity, consisting of various videos teaching the basic C# syntax for Unity)   
++ https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity) (Youtube playlist labelled 'Beginner-friendly scripting tutorials' by Unity, consisting of various videos teaching the basic C# syntax for Unity) 
++ https://chat.openai.com/ (ChatGPT)  
 
 
