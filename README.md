@@ -70,8 +70,8 @@ This file is in this folder, rather than the previous folder, '[C# environment i
 
 *Source(s):*  
 + https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp) (Youtube video labelled 'C# Tutorial - Full Course for Beginners' by freeCodeCamp)  
-+ https://stackoverflow.com/questions/11427223/what-is-the-difference-between-a-class-library-and-a-namespace (Stack Overflow) (Stack Overflow discussion on 'What is the difference between a class library and a namespace?')  
 + https://www.youtube.com/watch?v=1BYEC1ZENSg&t=1s (Matt Noone) (Youtube short labelled 'How to use namespaces in C#?' by Matt Noone)
++  https://stackoverflow.com/questions/11427223/what-is-the-difference-between-a-class-library-and-a-namespace (Stack Overflow) (Stack Overflow discussion on 'What is the difference between a class library and a namespace?')  
 + https://www.youtube.com/watch?v=CO4BGZOuUkM (Tech Decode Tutorials) (Youtube video labelled 'How to Run C# in Visual Studio Code on Windows 10 2022' by Tech Decode Tutorials) for the setting up c# in vscode section stuffs  
   
 <br>
