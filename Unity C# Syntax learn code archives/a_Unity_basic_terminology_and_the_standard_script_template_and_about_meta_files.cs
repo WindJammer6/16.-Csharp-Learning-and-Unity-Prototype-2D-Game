@@ -222,11 +222,17 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-// What are these 'meta' files that are being created along with my Unity(C#) assets and why are they 
-// created?
-// These 'meta' fields are used to describe or specify a file, in version control too, but in Unity(C#) 'meta' 
-// files store the import settings of the files you have in your project. Your script or folder have a 'meta'
-// file which tells Unity(C#) how to prepare the asset in the project. 
+// What are these '.meta' files in my 'Assets' folder that are being created along with my Unity(C#) assets and 
+// why are they created?
+// In Unity(C#), '.meta' files in the 'Assets' folder store the import settings of the assets/files in that 'Assets' 
+// folder in your Unity(C#) project. They tell the Unity(C#) editor/software how to prepare the asset/file in 
+// the 'Assets' folder in your Unity(C#) project. 
 
-// If you delete a 'meta' file, Unity(C#) reimports the asset and creates the default 'meta' file for that 
-// file type.
+// If you delete a '.meta' file, Unity(C#) reimports the asset and creates the default '.meta' file for that 
+// file type. Hence, it is advised that you don't delete them as the recreated default '.meta' file may not
+// be the exact same as the initial '.meta' file that you deleted, potentially leading to missing behaviour 
+// errors.
+
+// Source link: 
+// https://stackoverflow.com/questions/42462989/what-is-a-meta-file-and-why-does-unity-create-them-for-all-of-my-assets
+// (Stack Overflow discussion on 'What is a .meta file and why does Unity create them for all of my assets?') 
